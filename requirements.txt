@@ -1,0 +1,9 @@
+streamlit
+plotly
+numpy<2.0  # Ensures compatibility with Python 3.12
+yfinance
+scipy
+matplotlib
+datetime
+pandas<2.2  # Ensures compatibility
+Pillow
